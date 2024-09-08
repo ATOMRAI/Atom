@@ -1,0 +1,2 @@
+# Atom
+my first git
